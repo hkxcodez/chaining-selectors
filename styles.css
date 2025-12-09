@@ -1,0 +1,9 @@
+.avatar.distort {
+    height: 400px;
+    width: 200px;
+}
+
+.avatar.proportion {
+    height: auto;
+    width: 300px;
+}
